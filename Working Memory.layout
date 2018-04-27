@@ -1,0 +1,12 @@
+({'x': 0, 'height': 600, 'width': 950, 'state': 0, 'y': 22},
+ [('Time', None, {'height': 32, 'x': 503, 'label': 0, 'width': 54, 'y': 165}),
+  ('2D Memory', None, {'height': 32, 'x': 563, 'label': 0, 'width': 114, 'y': 49}),
+  ('Frequency', None, {'height': 32, 'x': 391, 'label': 0, 'width': 104, 'y': 54}),
+  ('Input', None, {'height': 32, 'x': 82, 'label': 0, 'width': 55, 'y': 55}),
+  ('2D Memory', 'spike raster', {'height': 219, 'x': 587, 'label': 1, 'width': 332, 'sample': 5, 'y': 116}),
+  ('Input', 'value|origin', {'height': 130, 'x': 129, 'sel_dim': [0], 'label': 1, 'autozoom': 0, 'width': 196, 'last_maxy': 5.0000000000000036, 'y': 110}),
+  ('Input', 'control', {'height': 161, 'x': 61, 'range': 4.0, 'limits': 1, 'label': 1, 'width': 58, 'limits_w': 0, 'y': 92}),
+  ('Frequency', 'value|X', {'height': 130, 'x': 132, 'sel_dim': [0], 'label': 1, 'autozoom': 0, 'width': 196, 'last_maxy': 2.0000000000000013, 'y': 253}),
+  ('Time', 'value|X', {'height': 145, 'x': 338, 'sel_dim': [0], 'label': 1, 'autozoom': 0, 'width': 218, 'last_maxy': 2.0000000000000013, 'y': 253}),
+  ('2D Memory', 'XY plot|X', {'width': 145, 'autohide': 1, 'last_maxy': 2.0000000000000013, 'sel_dim': [0, 1], 'y': 340, 'label': 1, 'x': 681, 'autozoom': 1, 'height': 145})],
+ {'sim_spd': 4, 'rcd_time': 4.0, 'filter': 0.03, 'dt': 0, 'show_time': 1.5})
